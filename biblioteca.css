@@ -1,0 +1,19 @@
+body{
+    margin: 5%;
+    background-image: url(images/livro.png);
+    background-size: cover;
+}
+
+table{
+    align-items: center;
+    text-align: center;
+}
+
+.container{
+    opacity: 80%;
+    padding: 2%;
+    border-radius: 1%;
+    background-color: aliceblue;
+}
+
+
